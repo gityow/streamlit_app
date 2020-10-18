@@ -8,6 +8,6 @@ To run app to score model in real time via user inputs:
  
  This would give you a local URL to access, mine was `http://localhost:8501`
 
-Here are some screenshots of the web app:
+Here is a screenshot of the web app:
 
 ![](images/screenshot.png?raw=true)
