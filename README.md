@@ -10,4 +10,4 @@ To run app to score model in real time via user inputs:
 
 Here are some screenshots of the web app:
 
-![Screenshot1](/images/Screen Shot_1.png)
+![Screenshot1](https://github.com/gityow/streamlit_app/tree/master/images/Screen Shot_1.png?raw=true)
